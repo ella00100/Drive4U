@@ -114,7 +114,7 @@ Project Duration: September 01, 2023 - December 22, 2023
 * **Team Leader:** 인하대학교 경영학과 권성준, 알고리즘 개발
 * **Team Member:** 인하대학교 경영학과 윤서영, 데이터 센싱 및 서버 구축
 * **Team Member:** 인하대학교 산업경영공학과 김민선, 대시보드 구현
-* **Team Member:** 인하대학교 조선해양공학과 박현지, 문서작
+* **Team Member:** 인하대학교 조선해양공학과 박현지, 문서작업
 
 
 &nbsp;
